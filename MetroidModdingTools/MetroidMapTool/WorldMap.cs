@@ -26,12 +26,6 @@ namespace MetroidMapTool
                 }
             }  
         }
-
-        public void FillMap(string mapFile)
-        {
-
-        }
-
         public void ConvertTexttoMap(string mapText)
         {
             string file = File.ReadAllText(mapText);
@@ -49,6 +43,25 @@ namespace MetroidMapTool
             replacementMap += "bin";
 
             File.WriteAllBytes(replacementMap, outputBytes);
+        }
+
+        public void OpenMap(string mapLocation)
+        {
+            if (!mapLocation.EndsWith("bin"))
+            {
+                //try opening as a text file instead, save out bin
+                ConvertTexttoMap(mapLocation);
+                return;
+            }
+
+            //else, treat as a bin file 
+
+            byte[] outputBytes = File.ReadAllBytes(mapLocation);
+            for (int i = 0; i < 1024; i++)
+            {
+                MapData[i % 32, i / 32] = outputBytes[i];
+            }
+
         }
 
         public byte GetRoom(int col, int row)

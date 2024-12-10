@@ -24,6 +24,7 @@ namespace MetroidMapTool
     public partial class MainWindow : Window
     {
         WorldMap map = new WorldMap();
+        MetaTileList tileList = new MetaTileList();
         public MainWindow()
         {
             InitializeComponent();
@@ -31,11 +32,19 @@ namespace MetroidMapTool
             CHRData testCHR = new CHRData();
             //WorldMap map = new WorldMap();
             OpenFileDialog dlg = new OpenFileDialog();
-            bool? result = dlg.ShowDialog();
-            if(result == true)
+            bool? mapResult = dlg.ShowDialog();
+            if(mapResult == true)
             {
-                map.ConvertTexttoMap(dlg.FileName);
+                map.OpenMap(dlg.FileName);
                 //testCHR.FillTable(dlg.FileName);
+            }
+
+            bool? metaResult = dlg.ShowDialog();
+            if (metaResult == true)
+            {
+                //map.OpenMap(dlg.FileName);
+                //testCHR.FillTable(dlg.FileName);
+                tileList.OpenTileDef(dlg.FileName);
             }
 
             imageControl.Source = map.CreateWorldMapImage();

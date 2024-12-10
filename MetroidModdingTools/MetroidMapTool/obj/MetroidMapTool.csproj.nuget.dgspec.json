@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\Tools\\Projects\\MetroidModdingTools\\MetroidMapTool\\MetroidMapTool.csproj": {}
+    "C:\\Users\\John\\Documents\\GitHub\\MetroidModding\\MetroidModdingTools\\MetroidMapTool\\MetroidMapTool.csproj": {}
   },
   "projects": {
-    "Z:\\Tools\\Projects\\MetroidModdingTools\\MetroidMapTool\\MetroidMapTool.csproj": {
+    "C:\\Users\\John\\Documents\\GitHub\\MetroidModding\\MetroidModdingTools\\MetroidMapTool\\MetroidMapTool.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\Tools\\Projects\\MetroidModdingTools\\MetroidMapTool\\MetroidMapTool.csproj",
+        "projectUniqueName": "C:\\Users\\John\\Documents\\GitHub\\MetroidModding\\MetroidModdingTools\\MetroidMapTool\\MetroidMapTool.csproj",
         "projectName": "MetroidMapTool",
-        "projectPath": "Z:\\Tools\\Projects\\MetroidModdingTools\\MetroidMapTool\\MetroidMapTool.csproj",
-        "packagesPath": "C:\\Users\\johnw\\.nuget\\packages\\",
-        "outputPath": "Z:\\Tools\\Projects\\MetroidModdingTools\\MetroidMapTool\\obj\\",
+        "projectPath": "C:\\Users\\John\\Documents\\GitHub\\MetroidModding\\MetroidModdingTools\\MetroidMapTool\\MetroidMapTool.csproj",
+        "packagesPath": "C:\\Users\\John\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\John\\Documents\\GitHub\\MetroidModding\\MetroidModdingTools\\MetroidMapTool\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\johnw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\John\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,7 +38,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net6.0-windows7.0": {
@@ -58,7 +68,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

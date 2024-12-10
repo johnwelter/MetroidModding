@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-Z:\Tools\Projects\MetroidModdingTools\MetroidMapTool\obj\Debug\net6.0-windows\
+C:\Users\John\Documents\GitHub\MetroidModding\MetroidModdingTools\MetroidMapTool\obj\Debug\net6.0-windows\
 MetroidMapTool
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-Z:\Tools\Projects\MetroidModdingTools\MetroidMapTool\App.xaml
+C:\Users\John\Documents\GitHub\MetroidModding\MetroidModdingTools\MetroidMapTool\App.xaml
 11407045341
 
 11-1438699346
-1941709816142
+194178300874
 MainWindow.xaml;
 
-True
+False
 
