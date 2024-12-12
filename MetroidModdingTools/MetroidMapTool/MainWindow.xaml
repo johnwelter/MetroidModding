@@ -6,8 +6,14 @@
         xmlns:local="clr-namespace:MetroidMapTool"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        <Image x:Name="imageControl"  UseLayoutRounding="True" RenderOptions.BitmapScalingMode="NearestNeighbor" MouseLeftButtonDown="Map_MouseDown"/>
-
+    <Grid Background="#FF9C9C9C">
+        <Canvas x:Name="imageCanvas" Background="Black" HorizontalAlignment="Left" Width="{Binding Width, ElementName=imageScroll}">
+            <ScrollViewer x:Name="imageScroll" HorizontalAlignment="Left" VerticalAlignment="Center" RenderTransformOrigin="0.5,0.5" Height="{Binding ActualHeight, ElementName=imageCanvas, Mode=OneWay}" Width="{Binding Width, ElementName=imageControl}">
+                <Image x:Name="imageControl"  UseLayoutRounding="True" RenderOptions.BitmapScalingMode="NearestNeighbor" MouseLeftButtonDown="Map_MouseDown" OpacityMask="Black"/>
+            </ScrollViewer>
+        </Canvas>
+        <Button x:Name="ChrButton" Content="CHR" HorizontalAlignment="Left" Margin="622,53,0,0" VerticalAlignment="Top" Click="CHR_Click"/>
+        <Button x:Name="MapButton" Content="Map" HorizontalAlignment="Left" Margin="622,117,0,0" VerticalAlignment="Top" Click="Map_Click"/>
+        <Button x:Name="MetaButton" Content="Meta" HorizontalAlignment="Left" Margin="622,189,0,0" VerticalAlignment="Top" Click="Meta_Click"/>
     </Grid>
 </Window>

@@ -80,7 +80,7 @@ namespace MetroidMapTool
 
             BitmapPalette bitPal = new BitmapPalette(pallete);
             PixelFormat pf = PixelFormats.Gray8;
-            WriteableBitmap chrMapImage = new WriteableBitmap(32, 32, 32, 32, pf, bitPal);
+            WriteableBitmap chrMapImage = new WriteableBitmap(32, 32, 8, 8, pf, bitPal);
 
             //we need to convert our chr table to a bitmap buffer
             List<byte> fullImage = new List<byte>();

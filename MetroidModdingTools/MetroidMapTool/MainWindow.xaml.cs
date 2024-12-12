@@ -25,29 +25,42 @@ namespace MetroidMapTool
     {
         WorldMap map = new WorldMap();
         MetaTileList tileList = new MetaTileList();
+
+        WriteableBitmap? chr_img = null;
+        WriteableBitmap? map_img = null;
+        WriteableBitmap? meta_img = null;
         public MainWindow()
         {
             InitializeComponent();
-            //do a quick test
-            CHRData testCHR = new CHRData();
-            //WorldMap map = new WorldMap();
             OpenFileDialog dlg = new OpenFileDialog();
+
+            CHRData? chrData = null;
+
+            bool? chrResult = dlg.ShowDialog();
+            if(chrResult == true) 
+            {
+                chrData = new CHRData(dlg.FileName);
+                chr_img = chrData.CreateCHRBitmap();
+            }
+            
             bool? mapResult = dlg.ShowDialog();
             if(mapResult == true)
             {
                 map.OpenMap(dlg.FileName);
-                //testCHR.FillTable(dlg.FileName);
+                map_img = map.CreateWorldMapImage();
             }
 
             bool? metaResult = dlg.ShowDialog();
-            if (metaResult == true)
+            if (metaResult == true && chrData != null)
             {
-                //map.OpenMap(dlg.FileName);
-                //testCHR.FillTable(dlg.FileName);
                 tileList.OpenTileDef(dlg.FileName);
+                meta_img = tileList.CreateMetaTileBitmap(chrData);
             }
-
-            imageControl.Source = map.CreateWorldMapImage();
+            
+            if(map_img != null)
+            {
+                imageControl.Source = map_img;
+            }
             
         }
         private void Map_MouseDown(object sender, MouseEventArgs e)
@@ -73,6 +86,32 @@ namespace MetroidMapTool
                 }
             }
             return new Point(-1, -1);
+        }
+
+        private void CHR_Click(object sender, RoutedEventArgs e)
+        {
+            if(chr_img != null)
+            {
+                imageControl.Source = chr_img;
+            }
+        }
+
+        private void Map_Click(object sender, RoutedEventArgs e)
+        {
+            if(map_img != null)
+            {
+                imageControl.Source = map_img;
+            }
+
+        }
+
+        private void Meta_Click(object sender, RoutedEventArgs e)
+        {
+            if(meta_img != null)
+            {
+                imageControl.Source = meta_img;
+            }
+
         }
 
     }
