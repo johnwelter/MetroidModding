@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\John\\Documents\\GitHub\\MetroidModding\\MetroidModdingTools\\",
+  "WorkspaceRootPath": "Z:\\GameDev\\Tools\\HomebrewTools\\repros\\MetroidModding\\MetroidModdingTools\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{966E22D1-DA75-43F2-B1A2-80A17D9D6B42}|MetroidMapTool\\MetroidMapTool.csproj|c:\\users\\john\\documents\\github\\metroidmodding\\metroidmoddingtools\\metroidmaptool\\metatile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{966E22D1-DA75-43F2-B1A2-80A17D9D6B42}|MetroidMapTool\\MetroidMapTool.csproj|solutionrelative:metroidmaptool\\metatile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{966E22D1-DA75-43F2-B1A2-80A17D9D6B42}|MetroidMapTool\\MetroidMapTool.csproj|c:\\users\\john\\documents\\github\\metroidmodding\\metroidmoddingtools\\metroidmaptool\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{966E22D1-DA75-43F2-B1A2-80A17D9D6B42}|MetroidMapTool\\MetroidMapTool.csproj|solutionrelative:metroidmaptool\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{966E22D1-DA75-43F2-B1A2-80A17D9D6B42}|MetroidMapTool\\MetroidMapTool.csproj|c:\\users\\john\\documents\\github\\metroidmodding\\metroidmoddingtools\\metroidmaptool\\worldmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{966E22D1-DA75-43F2-B1A2-80A17D9D6B42}|MetroidMapTool\\MetroidMapTool.csproj|z:\\gamedev\\tools\\homebrewtools\\repros\\metroidmodding\\metroidmoddingtools\\metroidmaptool\\worldmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{966E22D1-DA75-43F2-B1A2-80A17D9D6B42}|MetroidMapTool\\MetroidMapTool.csproj|solutionrelative:metroidmaptool\\worldmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{966E22D1-DA75-43F2-B1A2-80A17D9D6B42}|MetroidMapTool\\MetroidMapTool.csproj|c:\\users\\john\\documents\\github\\metroidmodding\\metroidmoddingtools\\metroidmaptool\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{966E22D1-DA75-43F2-B1A2-80A17D9D6B42}|MetroidMapTool\\MetroidMapTool.csproj|solutionrelative:metroidmaptool\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{966E22D1-DA75-43F2-B1A2-80A17D9D6B42}|MetroidMapTool\\MetroidMapTool.csproj|z:\\gamedev\\tools\\homebrewtools\\repros\\metroidmodding\\metroidmoddingtools\\metroidmaptool\\metroidmaptool.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{966E22D1-DA75-43F2-B1A2-80A17D9D6B42}|MetroidMapTool\\MetroidMapTool.csproj|solutionrelative:metroidmaptool\\metroidmaptool.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{966E22D1-DA75-43F2-B1A2-80A17D9D6B42}|MetroidMapTool\\MetroidMapTool.csproj|c:\\users\\john\\documents\\github\\metroidmodding\\metroidmoddingtools\\metroidmaptool\\chrdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{966E22D1-DA75-43F2-B1A2-80A17D9D6B42}|MetroidMapTool\\MetroidMapTool.csproj|z:\\gamedev\\tools\\homebrewtools\\repros\\metroidmodding\\metroidmoddingtools\\metroidmaptool\\chrdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{966E22D1-DA75-43F2-B1A2-80A17D9D6B42}|MetroidMapTool\\MetroidMapTool.csproj|solutionrelative:metroidmaptool\\chrdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{966E22D1-DA75-43F2-B1A2-80A17D9D6B42}|MetroidMapTool\\MetroidMapTool.csproj|c:\\users\\john\\documents\\github\\metroidmodding\\metroidmoddingtools\\metroidmaptool\\metroidmaptool.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{966E22D1-DA75-43F2-B1A2-80A17D9D6B42}|MetroidMapTool\\MetroidMapTool.csproj|solutionrelative:metroidmaptool\\metroidmaptool.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{966E22D1-DA75-43F2-B1A2-80A17D9D6B42}|MetroidMapTool\\MetroidMapTool.csproj|z:\\gamedev\\tools\\homebrewtools\\repros\\metroidmodding\\metroidmoddingtools\\metroidmaptool\\metatile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{966E22D1-DA75-43F2-B1A2-80A17D9D6B42}|MetroidMapTool\\MetroidMapTool.csproj|solutionrelative:metroidmaptool\\metatile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966E22D1-DA75-43F2-B1A2-80A17D9D6B42}|MetroidMapTool\\MetroidMapTool.csproj|z:\\gamedev\\tools\\homebrewtools\\repros\\metroidmodding\\metroidmoddingtools\\metroidmaptool\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{966E22D1-DA75-43F2-B1A2-80A17D9D6B42}|MetroidMapTool\\MetroidMapTool.csproj|solutionrelative:metroidmaptool\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966E22D1-DA75-43F2-B1A2-80A17D9D6B42}|MetroidMapTool\\MetroidMapTool.csproj|z:\\gamedev\\tools\\homebrewtools\\repros\\metroidmodding\\metroidmoddingtools\\metroidmaptool\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{966E22D1-DA75-43F2-B1A2-80A17D9D6B42}|MetroidMapTool\\MetroidMapTool.csproj|solutionrelative:metroidmaptool\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,41 +34,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "WorldMap.cs",
-              "DocumentMoniker": "C:\\Users\\John\\Documents\\GitHub\\MetroidModding\\MetroidModdingTools\\MetroidMapTool\\WorldMap.cs",
+              "DocumentMoniker": "Z:\\GameDev\\Tools\\HomebrewTools\\repros\\MetroidModding\\MetroidModdingTools\\MetroidMapTool\\WorldMap.cs",
               "RelativeDocumentMoniker": "MetroidMapTool\\WorldMap.cs",
-              "ToolTip": "C:\\Users\\John\\Documents\\GitHub\\MetroidModding\\MetroidModdingTools\\MetroidMapTool\\WorldMap.cs",
+              "ToolTip": "Z:\\GameDev\\Tools\\HomebrewTools\\repros\\MetroidModding\\MetroidModdingTools\\MetroidMapTool\\WorldMap.cs",
               "RelativeToolTip": "MetroidMapTool\\WorldMap.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAowDUAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-23T13:07:17.971Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "MetaTile.cs",
-              "DocumentMoniker": "C:\\Users\\John\\Documents\\GitHub\\MetroidModding\\MetroidModdingTools\\MetroidMapTool\\MetaTile.cs",
+              "DocumentMoniker": "Z:\\GameDev\\Tools\\HomebrewTools\\repros\\MetroidModding\\MetroidModdingTools\\MetroidMapTool\\MetaTile.cs",
               "RelativeDocumentMoniker": "MetroidMapTool\\MetaTile.cs",
-              "ToolTip": "C:\\Users\\John\\Documents\\GitHub\\MetroidModding\\MetroidModdingTools\\MetroidMapTool\\MetaTile.cs",
+              "ToolTip": "Z:\\GameDev\\Tools\\HomebrewTools\\repros\\MetroidModding\\MetroidModdingTools\\MetroidMapTool\\MetaTile.cs",
               "RelativeToolTip": "MetroidMapTool\\MetaTile.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAArwDcAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAAArwDcAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-23T13:07:18.047Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "CHRData.cs",
-              "DocumentMoniker": "C:\\Users\\John\\Documents\\GitHub\\MetroidModding\\MetroidModdingTools\\MetroidMapTool\\CHRData.cs",
+              "DocumentMoniker": "Z:\\GameDev\\Tools\\HomebrewTools\\repros\\MetroidModding\\MetroidModdingTools\\MetroidMapTool\\CHRData.cs",
               "RelativeDocumentMoniker": "MetroidMapTool\\CHRData.cs",
-              "ToolTip": "C:\\Users\\John\\Documents\\GitHub\\MetroidModding\\MetroidModdingTools\\MetroidMapTool\\CHRData.cs",
+              "ToolTip": "Z:\\GameDev\\Tools\\HomebrewTools\\repros\\MetroidModding\\MetroidModdingTools\\MetroidMapTool\\CHRData.cs",
               "RelativeToolTip": "MetroidMapTool\\CHRData.cs",
               "ViewState": "AgIAACoAAAAAAAAAAAAowEYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -77,40 +77,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\John\\Documents\\GitHub\\MetroidModding\\MetroidModdingTools\\MetroidMapTool\\MainWindow.xaml.cs",
+              "DocumentMoniker": "Z:\\GameDev\\Tools\\HomebrewTools\\repros\\MetroidModding\\MetroidModdingTools\\MetroidMapTool\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MetroidMapTool\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\John\\Documents\\GitHub\\MetroidModding\\MetroidModdingTools\\MetroidMapTool\\MainWindow.xaml.cs",
+              "ToolTip": "Z:\\GameDev\\Tools\\HomebrewTools\\repros\\MetroidModding\\MetroidModdingTools\\MetroidMapTool\\MainWindow.xaml.cs",
               "RelativeToolTip": "MetroidMapTool\\MainWindow.xaml.cs",
               "ViewState": "AgIAACUAAAAAAAAAAADwvy8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T13:07:18.05Z",
+              "WhenOpened": "2024-11-23T13:07:18.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MetroidMapTool.csproj",
+              "DocumentMoniker": "Z:\\GameDev\\Tools\\HomebrewTools\\repros\\MetroidModding\\MetroidModdingTools\\MetroidMapTool\\MetroidMapTool.csproj",
+              "RelativeDocumentMoniker": "MetroidMapTool\\MetroidMapTool.csproj",
+              "ToolTip": "Z:\\GameDev\\Tools\\HomebrewTools\\repros\\MetroidModding\\MetroidModdingTools\\MetroidMapTool\\MetroidMapTool.csproj",
+              "RelativeToolTip": "MetroidMapTool\\MetroidMapTool.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-23T13:07:18.053Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "MetroidMapTool.csproj",
-              "DocumentMoniker": "C:\\Users\\John\\Documents\\GitHub\\MetroidModding\\MetroidModdingTools\\MetroidMapTool\\MetroidMapTool.csproj",
-              "RelativeDocumentMoniker": "MetroidMapTool\\MetroidMapTool.csproj",
-              "ToolTip": "C:\\Users\\John\\Documents\\GitHub\\MetroidModding\\MetroidModdingTools\\MetroidMapTool\\MetroidMapTool.csproj",
-              "RelativeToolTip": "MetroidMapTool\\MetroidMapTool.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-23T13:07:18.053Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\John\\Documents\\GitHub\\MetroidModding\\MetroidModdingTools\\MetroidMapTool\\MainWindow.xaml",
+              "DocumentMoniker": "Z:\\GameDev\\Tools\\HomebrewTools\\repros\\MetroidModding\\MetroidModdingTools\\MetroidMapTool\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MetroidMapTool\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\John\\Documents\\GitHub\\MetroidModding\\MetroidModdingTools\\MetroidMapTool\\MainWindow.xaml",
+              "ToolTip": "Z:\\GameDev\\Tools\\HomebrewTools\\repros\\MetroidModding\\MetroidModdingTools\\MetroidMapTool\\MainWindow.xaml",
               "RelativeToolTip": "MetroidMapTool\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-23T13:07:18.148Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-23T13:07:18.148Z"
             }
           ]
         }
