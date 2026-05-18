@@ -8,12 +8,12 @@ Z:\GameDev\Tools\HomebrewTools\repros\MetroidModding\MetroidModdingTools\Metroid
 MetroidMapTool
 none
 false
-TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
 Z:\GameDev\Tools\HomebrewTools\repros\MetroidModding\MetroidModdingTools\MetroidMapTool\App.xaml
 11407045341
 
 11-1438699346
-194178300874
+194662634156
 MainWindow.xaml;
 
 False

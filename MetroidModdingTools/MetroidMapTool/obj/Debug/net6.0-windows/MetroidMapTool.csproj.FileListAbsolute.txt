@@ -63,3 +63,4 @@ Z:\GameDev\Tools\HomebrewTools\repros\MetroidModding\MetroidModdingTools\Metroid
 Z:\GameDev\Tools\HomebrewTools\repros\MetroidModding\MetroidModdingTools\MetroidMapTool\obj\Debug\net6.0-windows\MetroidMapTool.pdb
 Z:\GameDev\Tools\HomebrewTools\repros\MetroidModding\MetroidModdingTools\MetroidMapTool\obj\Debug\net6.0-windows\MetroidMapTool.genruntimeconfig.cache
 Z:\GameDev\Tools\HomebrewTools\repros\MetroidModding\MetroidModdingTools\MetroidMapTool\obj\Debug\net6.0-windows\ref\MetroidMapTool.dll
+Z:\GameDev\Tools\HomebrewTools\repros\MetroidModding\MetroidModdingTools\MetroidMapTool\obj\Debug\net6.0-windows\MetroidMapTool.sourcelink.json

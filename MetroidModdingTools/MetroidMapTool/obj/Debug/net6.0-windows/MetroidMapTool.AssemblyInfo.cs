@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MetroidMapTool")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+deca12e96a4bd2de42afbe7623da6c61d0ab2b91")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aa1b1fc1e9f6c7ee26ea171b8451c2e4bc1f38d7")]
 [assembly: System.Reflection.AssemblyProductAttribute("MetroidMapTool")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MetroidMapTool")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
